@@ -1,2 +1,2 @@
 # Introducao-ao-GITHUB
-Primeiro desafio de conhecimento sobre GITHUB - DIO
+Primeiro desafio de conhecimento sobre Git/Github - DIO
